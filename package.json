@@ -1,0 +1,27 @@
+{
+  "name": "shary",
+  "version": "1.0.0",
+  "description": "Share your files effortlessly with QRCodes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sharing",
+    "file",
+    "qrcode"
+  ],
+  "author": {
+    "email": "wilk3ert@gmail.com",
+    "name": "Wilk",
+    "url": "https://github.com/wilk"
+  },
+  "bin": {
+    "shary": "./index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "ngrok": "^3.2.7",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
