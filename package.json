@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Share your files effortlessly with QRCodes",
   "main": "index.js",
+  "homepage": "https://github.com/wilk/shary",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
