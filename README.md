@@ -1,7 +1,7 @@
 # Shary
 Share your files effortlessly with QRCodes
 
-![Shary](shary.png)
+![Shary](shary.gif)
 
 ## Usage
 You want to share a file from your computer to, well, wherever you want:
