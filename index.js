@@ -35,7 +35,7 @@ const main = async () => {
 
   console.log(`
   = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-  Scan this QRCode to download the file!
+  Scan this QRCode to download the file or go to this link: ${BOLD}${url}
   = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
   `);
 };
