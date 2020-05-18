@@ -5,7 +5,7 @@
   "main": "index.js",
   "homepage": "https://github.com/wilk/shary",
   "scripts": {
-    "release": "npm version $3 && git push && git push --tags && npm publish && echo"
+    "release": "git push && git push --tags && npm publish"
   },
   "keywords": [
     "sharing",
