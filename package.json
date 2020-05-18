@@ -1,6 +1,6 @@
 {
   "name": "shary",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Share your files effortlessly with QRCodes",
   "main": "index.js",
   "homepage": "https://github.com/wilk/shary",
